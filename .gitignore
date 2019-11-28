@@ -453,3 +453,6 @@ bower_components
 
 ### WebSharper ###
 Scripts/
+
+# Rider
+.idea/
